@@ -1,4 +1,3 @@
-# caesar-cipher
 # Caesar Cipher Encoder/Decoder
 
 ## Project Overview
